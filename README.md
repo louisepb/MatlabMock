@@ -9,4 +9,6 @@ To launch tests, navigate to test folder and type 'runtests("testname")' on the 
 * **PlotAppExampleTest**
     * Example of app created in app designer with mocked test
  
+Examples taken from MATLAB documentation: [Mock Dependencies in Tests](https://uk.mathworks.com/help/matlab/mock-dependencies-in-tests.html?s_tid=CRUX_lftnav) and [Test Apps](https://uk.mathworks.com/help/matlab/test-apps.html?s_tid=CRUX_lftnav)
+ 
 
